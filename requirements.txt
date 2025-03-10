@@ -1,0 +1,13 @@
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.3
+pillow==10.2.0
+requests==2.31.0
+python-dotenv==1.0.1
+anthropic==0.18.1
+openai==1.12.0
+PyPDF2==3.0.1
+python-docx==1.0.1
+python-pptx==0.6.22
+tiktoken==0.5.2
+base64io==1.0.3 
